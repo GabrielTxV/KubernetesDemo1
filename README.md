@@ -1,6 +1,6 @@
-#Demo Kubernetes/Docker project  
+# Demo Kubernetes/Docker project  
 From https://www.youtube.com/watch?v=s_o8dwzRlu4  
-Para iniciar, ''minikube deve estar rodando''  
+Para iniciar, minikube deve estar rodando  
 ```minikube start```     
 Aplicar primeiramente config e secret antes dos deployments por referência     
 ``kubectl apply -f mongo-config.yaml`` // ``kubectl apply -f mongo-secret.yaml``    
