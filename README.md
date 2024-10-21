@@ -1,4 +1,5 @@
-Demo project from https://www.youtube.com/watch?v=s_o8dwzRlu4  
+#Demo Kubernetes/Docker project  
+From https://www.youtube.com/watch?v=s_o8dwzRlu4  
 Para iniciar, ''minikube deve estar rodando''  
 ```minikube start```     
 Aplicar primeiramente config e secret antes dos deployments por referência     
